@@ -1,6 +1,6 @@
 ### Welcome 🎉
 
-I am Alessandro Lonardi, an Assistant AI Researcher at <a href="https://ai.sony//">Sony AI</a> in Barcelona, Spain. Before that, I did my PhD at the <a href="https://www.is.mpg.de/">Max Planck Institute for Intelligent Systems</a> in Tübingen, Germany, working under the supervision of <a href="https://cdebacco.com/">Caterina De Bacco</a>.
+I am Alessandro Lonardi, a Resarch Intern at <a href="https://ai.sony//">Sony AI</a> in Barcelona, Spain. Before that, I did my PhD at the <a href="https://www.is.mpg.de/">Max Planck Institute for Intelligent Systems</a> in Tübingen, Germany, working under the supervision of <a href="https://cdebacco.com/">Caterina De Bacco</a>.
 
 Everything you may be looking for can be found here:
 - 🔗  &nbsp; <a href="https://aleable.github.io/">aleable.github.io</a>
