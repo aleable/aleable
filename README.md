@@ -1,4 +1,4 @@
-### Welcome 🎉
+### Hello! 🙃
 
 I am a researcher in complex systems and machine learning. Recently, I interned at <a href="https://ai.sony//">Sony AI</a> in Barcelona, Spain. Before that, I did my PhD at the <a href="https://www.is.mpg.de/">Max Planck Institute for Intelligent Systems</a> in Tübingen, Germany, under the supervision of <a href="https://cdebacco.com/">Caterina De Bacco</a>.
 
