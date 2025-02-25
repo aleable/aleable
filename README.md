@@ -5,5 +5,3 @@ I am a researcher in complex systems and machine learning. Recently, I interned 
 More about me can be found on my website: <a href="https://aleable.github.io/">aleable.github.io</a>.
 
 If you would like to get in touch with me, please send an email to: <a href="alessandro.lonardi.vr@gmail.com">alessandro.lonardi.vr@gmail.com</a>.
-
-My profile picture is taken from a fantastic videogame called [Gris](https://en.wikipedia.org/wiki/Gris). 
